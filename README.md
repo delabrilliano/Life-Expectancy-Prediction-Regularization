@@ -8,7 +8,7 @@ Created by: _**Delabrilliano Ismail**_, [**_Hanifah Nur Fahmi_**](https://github
 
 This machine learning model was made to predict Life Expectancy using multiple linear regression and regularization (Lasso, Ridge, ElasticNet) algorithms.
 
-The Life Expectancy dataset was from [Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who).
+The Life Expectancy dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who).
 
 ## **Context**
 
